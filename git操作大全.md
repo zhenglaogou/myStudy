@@ -76,9 +76,9 @@ git checkout -- 文件名 / git checkout .
 
 ### 9.与远端仓库关联/断掉关联：
 
-git remove add origin <url>你的git地址
+git remote add origin <url>你的git地址
 
-git remote remove origin
+git remove remove origin
 
 ### 10.将本地仓库的东西推送到远端仓库,推送！
 
